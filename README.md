@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I am a Full Stack Developer with Java (spring) and Angular as my core stack. I'm currently working on learning fundamentals of Spring and Spring Boot. I'll also start with LangChain and LangGraph.<br>👯 I’m looking to collaborate on interesting ideas. I love working on things that have to be built from ground <br>🌱 I’m currently learning Spring Framework and LangChain. I have started Data Structures and Algorithms too!<br>💬 You can ask me about things in javascript. It's a weird language but helpful.<br>⚡ I am biased towards backend than frontend
-
+🔭 I am a Full Stack Developer with Java (spring) and Angular as my core stack.<br>👯 I’m looking to collaborate on interesting ideas. I love designing systems for ground up <br>🌱 I’m expanding my horizon on Spring Framework. I have started Data Structures and Algorithms too!<br>💬 You can ask me about things in javascript. It's a weird language but helpful.<br>⚡ I love going through blogs and exploring open-source software tools.<br>🫥 Github Copilot is my partner in crime
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shardunyamamidi@gmail.com) 
