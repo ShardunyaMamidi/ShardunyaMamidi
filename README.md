@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Full Stack Developer with Java (spring) and Angular as my core stack.<br>👯 I’m looking to collaborate on interesting ideas. I love designing systems for ground up <br>🌱 I’m expanding my horizon on Spring Framework. Solving Data Structures and Algorithms to make my noggin take a spin<br>⚡ I love going through blogs and exploring open-source software tools.<br>🫥 Github Copilot is my partner in crime
+🔭 I am a Full Stack Developer with Java (Spring Boot), Python (FastAPI) and Angular as my core stack.<br>👯 I’m looking to collaborate on interesting ideas. I love designing systems from the ground up <br>🌱 I’m expanding my horizon on AI agents orchestration using LangChain and LangGraph. Solving Data Structures and Algorithms to make my noggin take a spin<br>⚡ I love going through blogs and exploring open-source software tools.<br>🫥 Github Copilot and Claude Code are my partners in crime.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shardunyamamidi@gmail.com) 
